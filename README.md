@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on things
 - 📫 How to reach me, just add me
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: The human heart beats 100,000 times a day
 
 <!---
 6028832/6028832 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
