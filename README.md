@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Matthijs
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on things
+- 🌱 I’m currently learning React and Python
 - 📫 How to reach me, just add me
-- 😄 Pronouns: he/him
 
 <!---
 6028832/6028832 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
